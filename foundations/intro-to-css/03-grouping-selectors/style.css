@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+button {
+    font-family: 'Helvetica','Times New Roman', sans-serif;
+    font-size: 28px;
+}
+.class1{background-color: black; color: white;}
+.class2{background-color: yellow; color: black;}
